@@ -7,3 +7,7 @@ Classes parciais
 </br>Você pode adicionar código à classe sem precisar recriar o arquivo de origem que inclui a origem gerada automaticamente. O Visual Studio usa essa abordagem quando cria Windows Forms, código de wrapper de serviço Web e assim por diante. Você pode criar código que usa essas classes sem precisar modificar o arquivo que o Visual Studio cria.
 </br>Os geradores de origem podem gerar funcionalidade extra em uma classe.
 </br>Para dividir uma definição de classe, use o modificador de palavra-chave partial, como mostrado aqui:
+
+
+#Referência
+</br>https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/partial-classes-and-methods
