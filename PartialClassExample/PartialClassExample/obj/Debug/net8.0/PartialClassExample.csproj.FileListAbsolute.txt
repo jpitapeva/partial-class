@@ -1,0 +1,15 @@
+D:\Source\partial-class\PartialClassExample\PartialClassExample\bin\Debug\net8.0\PartialClassExample.exe
+D:\Source\partial-class\PartialClassExample\PartialClassExample\bin\Debug\net8.0\PartialClassExample.deps.json
+D:\Source\partial-class\PartialClassExample\PartialClassExample\bin\Debug\net8.0\PartialClassExample.runtimeconfig.json
+D:\Source\partial-class\PartialClassExample\PartialClassExample\bin\Debug\net8.0\PartialClassExample.dll
+D:\Source\partial-class\PartialClassExample\PartialClassExample\bin\Debug\net8.0\PartialClassExample.pdb
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.AssemblyInfoInputs.cache
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.AssemblyInfo.cs
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.csproj.CoreCompileInputs.cache
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.sourcelink.json
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.dll
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\refint\PartialClassExample.dll
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.pdb
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\PartialClassExample.genruntimeconfig.cache
+D:\Source\partial-class\PartialClassExample\PartialClassExample\obj\Debug\net8.0\ref\PartialClassExample.dll
