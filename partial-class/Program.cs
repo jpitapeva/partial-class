@@ -11,6 +11,9 @@ public partial class Coords
         this.y = y;
     }
 
+    /// <summary>
+    /// Prints the coordinates.
+    /// </summary>
     public void PrintCoords()
     {
         Console.WriteLine("Coords: {0},{1}", x, y);
