@@ -29,5 +29,6 @@ class TestCoords
         Console.WriteLine("Press any key to exit.");
         Console.ReadKey();
     }
+
 }
 // Output: Coords: 10,15
