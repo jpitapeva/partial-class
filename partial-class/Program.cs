@@ -1,4 +1,6 @@
-﻿public partial class Coords
+﻿using System;
+
+public partial class Coords
 {
     private int x;
     private int y;
@@ -8,17 +10,14 @@
         this.x = x;
         this.y = y;
     }
-}
 
-public partial class Coords
-{
     public void PrintCoords()
     {
         Console.WriteLine("Coords: {0},{1}", x, y);
     }
 }
 
-class TestCoords
+public partial class Coords
 {
     static void Main()
     {
@@ -29,6 +28,5 @@ class TestCoords
         Console.WriteLine("Press any key to exit.");
         Console.ReadKey();
     }
- //teste  
 }
 // Output: Coords: 10,15
